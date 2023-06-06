@@ -10,7 +10,7 @@ function App() {
       <h1>Ran + Almog === {'<'}3</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          count is not {count}
         </button>
       </div>
     </>
